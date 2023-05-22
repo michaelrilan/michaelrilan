@@ -2,8 +2,6 @@
 <h3 align="center">Passionate Developer and willing to learn and grow on different kinds of Software platforms(Web, Software, Embedded System, Hybrid App, Mobile App Development).</h3>
 <img align = "right" alt="programming gif" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-- ⚡ Fun fact **I'm a badminton player**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/michael-rilan-272b92233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/michael-rilan-272b92233/" height="30" width="40" /></a>
