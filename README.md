@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Angelo Rilan</h1>
-<h3 align="center">Passionate Developer and willing to learn and grow on different kinds of Software platforms(Web, Software, Embedded System, Hybrid App, Mobile App Development).</h3>
+<h3 align="center">Passionate and Motivated Developer willing to learn and grow on different kinds of Software platforms(Web, Software, Embedded System, Hybrid App, Mobile App Development).</h3>
 <img align = "right" alt="programming gif" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <h3 align="left">Connect with me:</h3>
