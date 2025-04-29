@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michael Angelo Rilan</h1>
-<h3 align="center">Fullstack Developer with experience building dynamic, responsive, and user-centric web applications.</h3>
+<h3 align="center">I'm a Fullstack Developer with experience of building dynamic, responsive, and user-centric applications specializes in both frontend and backend development, using technologies like JavaScript, React, Python, Django, and Node.js to deliver end-to-end solutions.</h3>
 <img align = "right" alt="programming gif" width="500" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <h3 align="left">Connect with me:</h3>
